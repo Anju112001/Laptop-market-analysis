@@ -1,15 +1,14 @@
-Laptop Market Analysis
-Project Overview
+# Laptop Market Analysis
+## Project Overview
 
 This project performs an Exploratory Data Analysis (EDA) on a laptop market dataset to identify how hardware specifications and brand characteristics influence laptop pricing. The analysis focuses on uncovering patterns in laptop configurations, pricing trends, and brand positioning in the market.
 
 The dataset contains 1,200+ laptop records and multiple technical attributes, including manufacturer, processor, RAM, storage, GPU, operating system, screen size, weight, and price. 
 
-LAPTOP MILESTONE 1 (1)
 
 The objective is to transform raw laptop specification data into meaningful insights about market trends, pricing drivers, and product segmentation.
 
-Objectives
+## Objectives
 
 Analyze laptop market distribution across brands
 
@@ -21,7 +20,7 @@ Examine laptop type distribution (Notebook, Ultrabook, Gaming, etc.)
 
 Understand how operating systems and hardware configurations impact pricing
 
-Dataset Features
+## Dataset Features
 
 The dataset contains the following attributes:
 
@@ -49,9 +48,8 @@ Price
 
 These variables allow analysis of hardware specifications, product segmentation, and pricing behavior across different laptop brands. 
 
-LAPTOP MILESTONE 1 (1)
 
-Data Preprocessing
+## Data Preprocessing
 
 Several preprocessing steps were performed before analysis:
 
@@ -103,7 +101,7 @@ Company vs Price
 
 Analyzed average laptop price by brand to identify premium and budget manufacturers.
 
-Key Insights
+## Key Insights
 
 Lenovo, Dell, and HP dominate the market in terms of product volume.
 
@@ -115,7 +113,7 @@ Ultrabooks and workstations tend to be more expensive compared to standard noteb
 
 Most laptops fall within the 13–15 inch screen size category, indicating a market standard.
 
-Tools & Technologies
+## Tools & Technologies
 
 Python
 
