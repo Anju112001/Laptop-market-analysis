@@ -65,7 +65,7 @@ Treated outliers in features such as screen size and weight
 
 These steps ensured the dataset was clean, consistent, and suitable for analysis.
 
-Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Multiple visualizations were created to explore market patterns:
 
